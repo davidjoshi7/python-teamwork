@@ -26,3 +26,6 @@ ssh-keygen
 git remote add origin <repo ko link>
 
 git push -u origin main
+
+
+sdfhjdsfhlskdj
